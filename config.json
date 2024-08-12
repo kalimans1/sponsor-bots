@@ -1,0 +1,21 @@
+{
+    "token": "MTI2Nzc0NTg1MzM5Nzc5ODk5Ng.GtlGA5.31rJTefKAmtgjyLDdzUmHogZEMMFvcy88FIaos",
+    "prefix": "!",
+    "wlrole": "1053636030558904340",
+    "helperRole": "1053636036481253516",
+    "embedColor": "2c2f33",
+    "m_AlreadyPubing_title": ":x: An ad is already in progress on this show.",
+    "m_AlreadyPubing_description": "To start a new ad in this room, pause the current ad or wait for it to end.",
+    "m_AlreadyPubing_footer": "Press the cross to cancel the action.",
+    "m_wl_sucess": "just gained access to SponsorBot.",
+    "m_wl_error": ":x: This user was not found.",
+    "m_wl_null": ":x: Please mention the person in the wl.",
+    "m_token_invalide_title": ":x: The token is invalid or expired.",
+    "m_token_invalid_description": "Your bot may be banned by discord or you need to search for a new token in the discord developer interface.",
+    "m_pub_s1_stopped": ":x: Advertising interruption at your request.",
+    "m_pub_time_stop_title": ":x: Time remaining",
+    "m_pub_time_stop_description": "The time limit for the current step has expired.",
+    "stream": ""
+
+    
+}
