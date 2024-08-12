@@ -1,2 +1,2 @@
 # sponsorbot
-Made by Tracie#0001 :)
+Made by undefined#0000 gizli kullancıyım.
